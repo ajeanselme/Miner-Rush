@@ -1,3 +1,3 @@
 # Miner-Rush
 
-Project of my first year final exam project.
+Game project of my first year final exam project.
